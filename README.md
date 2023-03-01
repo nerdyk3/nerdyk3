@@ -45,8 +45,6 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="git" width="80" height="80"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="80" height="80"/> 
-<img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="git" width="80" height="80"/>
 </p>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>

@@ -56,3 +56,5 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="git" width="80" height="80"/>
 </p>
+ ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dirkunal) 

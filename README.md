@@ -5,9 +5,9 @@
 <summary>📊 Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nerdyk3&show_icons=true&theme=tokyonight" alt="Kunal Kumar Kushwaha| Stats" />
-<button><a href="https://erkunal.in/kunalppt.pdf"> Voucher </a></button>
+
 </details>
- 
+ <a href="https://erkunal.in/kunalppt.pdf"> <button>Voucher </button></a>
 
 #### Stack:
 <p align="left">

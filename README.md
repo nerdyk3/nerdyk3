@@ -71,10 +71,7 @@ Full-stack web application with modern development practices
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
+- 💼 [LinkedIn](https://linkedin.com/in/coderk3)
 
 ### 💡 Open Source & Collaboration
 

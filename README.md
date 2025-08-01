@@ -82,8 +82,6 @@ I'm passionate about open-source development and always interested in collaborat
 - 🐍 Python libraries and frameworks
 
 **⭐ If you find my work valuable, consider starring my repositories!**
-----------------------
-"Building the future where technology meets legal compliance" ⚖️💻
 
 ---
 

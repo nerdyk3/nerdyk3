@@ -1,59 +1,93 @@
+# Hi there, I'm Kunal! 👋
 
+## 🚀 Senior Developer | DevOps Expert | Legal-Tech Innovator
 
-[Bio Link](https://erkunal.in/)
- <details>
-<summary>📊 Github Stats</summary>
+> 9+ years of experience building scalable mobile apps, robust backend systems, and enterprise-grade infrastructure. Currently bridging technology and law through my Computer Science and LLB studies.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nerdyk3&show_icons=true&theme=tokyonight" alt="Kunal Kumar Kushwaha| Stats" />
+### 🛠️ Tech Stack & Expertise
 
-</details>
- <a href="https://erkunal.in/kunalppt.pdf"> <button>Voucher </button></a>
+**Mobile Development**
+- 📱 iOS (Swift, Objective-C) - 9+ years
+- ⚛️ React Native - Cross-platform specialist
+- 🏪 App Store deployments and optimization
 
-#### Stack:
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" alt="git" width="80" height="80"/>
-</p>
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="git" width="80" height="80"/>
-</p>
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="git" width="80" height="80"/>
-</p>
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="git" width="80" height="80"/>
-</p>
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="git" width="80" height="80"/>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="80" height="80"/> 
-</p>
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="80" height="80"/>
-<p align="left"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="80"/> 
-<img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="git" width="80" height="80"/> 
-</p>
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="git" width="80" height="80"/>
-</p>
-<a href="https://buymeacoffee.com/dirkunal"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+**Backend & Web**
+- 🐍 Python (Django, Flask, FastAPI)
+- 🟨 JavaScript/TypeScript (Node.js, React)
+- 🔷 Go - Microservices and system programming
+- 🗄️ PostgreSQL, MongoDB, Redis
+
+**DevOps & Infrastructure**
+- ☁️ AWS, Google Cloud, Azure
+- 🐳 Docker & Kubernetes orchestration
+- 🔄 CI/CD (Jenkins, GitHub Actions, GitLab)
+- 🏗️ Infrastructure as Code (Terraform, Ansible)
+- 📊 Monitoring & SRE practices
+
+**Legal-Tech Focus**
+- ⚖️ Technology law and digital compliance
+- 🔒 DevSecOps for regulated industries
+- 📋 Cloud compliance and data sovereignty
+- 🛡️ Privacy-by-design architectures
+
+### 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdyk3&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerdyk3&layout=compact&theme=radical)
+
+### 🎯 Featured Projects
+
+#### 📊 [Financial Data Analysis Platform](https://github.com/nerdyk3/placio_financial)
+Comprehensive data analysis solution with automated reporting and real-time visualization
+- **Tech**: Python, Pandas, Jupyter, PostgreSQL
+- **Features**: Real-time data processing, automated reports, financial modeling
+
+#### 🌐 [Personal Portfolio Website](https://github.com/nerdyk3/kunal-s-website)
+Modern, responsive portfolio showcasing technical skills and projects
+- **Tech**: React, Node.js, Docker
+- **Features**: Mobile-first design, CI/CD deployment, performance optimized
+
+#### 🏢 [Placio Platform](https://github.com/nerdyk3/placio)
+Full-stack web application with modern development practices
+- **Tech**: JavaScript, Python, DevOps
+- **Features**: Scalable architecture, automated testing, cloud deployment
+
+### 🏆 Professional Highlights
+
+- 🎯 **9+ years** of production experience across mobile and web
+- 📱 **Multiple iOS apps** published to App Store
+- ☁️ **Enterprise infrastructure** serving millions of users
+- ⚡ **80% deployment time reduction** through DevOps optimization
+- 🔝 **99.9% uptime** maintained for critical applications
+- 👥 **Team leadership** and junior developer mentoring
+
+### 🌱 Current Focus
+
+- 🔍 Exploring intersection of **Legal-Tech** and **DevOps**
+- 🤖 Building **AI-powered compliance** tools
+- 📚 Contributing to **open-source** legal-tech projects
+- 🎓 Advancing **LLB studies** in technology law
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio: [your-website.com](https://your-website.com)
+
+### 💡 Open Source & Collaboration
+
+I'm passionate about open-source development and always interested in collaborating on:
+- 📱 Mobile development projects
+- ☁️ DevOps tools and automation
+- ⚖️ Legal-tech innovations
+- 🐍 Python libraries and frameworks
+
+**⭐ If you find my work valuable, consider starring my repositories!**
+----------------------
+"Building the future where technology meets legal compliance" ⚖️💻
+
+---
+
+*"Building the future where technology meets legal compliance"* ⚖️💻
